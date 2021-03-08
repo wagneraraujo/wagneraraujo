@@ -9,7 +9,7 @@
 
 - 🌱 Estou aprendendo **Nodejs, React Native e Next**
 
-- 👨‍💻 Recentes trabalhos desenvolvidos [https://wagneraraujo.dev/](https://wagneraraujo.dev/)
+- 👨‍💻 Recentes trabalhos desenvolvidos [https://wagneraraujobr.netlify.app/](https://wagneraraujobr.netlify.app/)
 
 - 📫 Fale comigo **wagneraraujo15@gmail.com**
 
