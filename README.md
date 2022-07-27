@@ -6,8 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wagneraraujo" alt="wagneraraujo" /></a> </p>
 
 
-- 🌱 Estou aprendendo **Nodejs, React Native e Next**
-
+- 🌱 Trabalho com **React e React Native**
+- Tenho conhecimentos em Firebase,MongoDB e Mysql
+- Gosto muito de Nextjs e Strapi
 - 👨‍💻 Recentes trabalhos desenvolvidos [https://wagneraraujobr.netlify.app/](https://wagneraraujobr.netlify.app/)
 
 - 📫 Fale comigo **wagneraraujo15@gmail.com**
@@ -15,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wagnera24559263" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wagnera24559263" height="30" width="40" /></a>
-<a href="https://fb.com/wagner.araujo.costa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="wagner.araujo.costa" height="30" width="40" /></a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wagneraraujo&show_icons=true&locale=en&layout=compact" alt="wagneraraujo" /></p>
