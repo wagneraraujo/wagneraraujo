@@ -7,9 +7,7 @@
 
 
 - 🌱 Trabalho com **React e React Native**
-- Tenho conhecimentos em Firebase,MongoDB e Mysql
 - Gosto muito de Nextjs e Strapi
-- 👨‍💻 Meu curriculum [https://meucurriculum-online.netlify.app//](https://meucurriculum-online.netlify.app/)
 
 - 📫 Fale comigo **wagneraraujo15@gmail.com**
 
