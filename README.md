@@ -1,13 +1,9 @@
-<h1 align="center">Wagner Araújo Dev FrontEnd</h1>
-<h3 align="center">Stack JS e estudante Mobile e BackEnd</h3>
+<h1 align="center">Wagner, Dev FrontEnd</h1>
+<h3 align="center">FullStack JS Mobile e Automações com IA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wagneraraujo&label=Profile%20views&color=0e75b6&style=flat" alt="wagneraraujo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wagneraraujo" alt="wagneraraujo" /></a> </p>
-
-
-- 🌱 Trabalho com **React e React Native**
-- Gosto muito de Nextjs e Strapi
 
 - 📫 Fale comigo **wagneraraujo15@gmail.com**
 
